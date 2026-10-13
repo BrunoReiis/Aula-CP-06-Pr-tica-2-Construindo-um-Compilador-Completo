@@ -3,7 +3,7 @@
 - Bruno dos Reis Ferreira Santos — RA: 2564952
 - Vinicius de Freitas Ferreira — RA: 2373516
 - Matheus Francisco — RA: 2693112
-- Matheus de Oliveira — RA: 2693112
+- Matheus de Oliveira — RA: 2369955
 
 ---
 
